@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsgshsk" alt="nsgshsk" /></a> </p>
 
-- 🔭 I’m currently working on **Unknown**
+- 🔭 I’m currently working on **Flight Manager**
 
-- 🌱 I’m currently learning **C#, Python, C++**
+- 🌱 I’m currently learning **C#, Python, C++, Typescript**
 
 - 📫 How to reach me **lubomirtopalski@gmail.com**
 
