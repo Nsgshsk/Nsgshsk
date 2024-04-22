@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsgshsk" alt="nsgshsk" /></a> </p>
 
-- 🔭 I’m currently working on **Flight Manager**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **C#, Python, C++, Typescript**
 
