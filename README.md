@@ -1,4 +1,4 @@
-Hi 👋 My name is Lyubomir Topalski
+Hi 👋 My name is Lubomir Topalski
 ==================================
 
 Software Engineer Student
