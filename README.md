@@ -25,7 +25,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Software Engineering from Bulgaria.<br><br>- 🔭 I’m currently broadening my skills and searching for a job<br>- 📚 I'm currently learning Go, Docker and Kubernetes<br>- ⚡ In my free time I thinker with my NixOS machine or i am playing some games</p>
+<p data-importer="text" align="left">I'm Software Engineering student from Bulgaria.<br><br>- 🔭 I’m currently broadening my skills and searching for a job<br>- 📚 I'm currently learning Go, Docker and Kubernetes<br>- ⚡ In my free time I thinker with my NixOS machine or i am playing some games</p>
 
 ###
 
